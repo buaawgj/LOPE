@@ -19,4 +19,13 @@ In this code, we use the hopper environment to demonstrate the performance impro
 
 Please use this bibtex if you want to cite this repository in your publications :
 ```
+@misc{wang2024preferenceguidedreinforcementlearningefficient,
+      title={Preference-Guided Reinforcement Learning for Efficient Exploration}, 
+      author={Guojian Wang and Faguo Wu and Xiao Zhang and Tianyuan Chen and Xuyang Chen and Lin Zhao},
+      year={2024},
+      eprint={2407.06503},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.06503}, 
+}
 ```
